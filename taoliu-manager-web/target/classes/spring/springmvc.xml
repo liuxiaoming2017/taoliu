@@ -41,5 +41,6 @@
  
 <!-- 3、关闭注册中心启动时检查：(注册订阅失败时报错) -->
 <!-- <dubbo:registry check="false" />  -->
-	 <dubbo:reference interface="com.taoliu.service.ItemService" id="itemService" /> 	
+	 <dubbo:reference interface="com.taoliu.service.ItemService" id="itemService" /> 
+	 <dubbo:reference interface="com.taoliu.content.service.ContentCategoryService" id="contentCategoryService" timeout="300000" />
 </beans>
