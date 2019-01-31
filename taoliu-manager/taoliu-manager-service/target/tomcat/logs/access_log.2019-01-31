@@ -1,0 +1,2 @@
+127.0.0.1 - - [31/Jan/2019:14:58:30 +0800] "GET /solr/select?q=%E5%AE%B6%E5%A4%A9%E4%B8%8B%E5%95%8A&%E5%AE%B6%E5%A4%A9%E4%B8%8B=product_name&wt=javabin&version=2 HTTP/1.1" 404 973 http-bio-8081-exec-1 42
+127.0.0.1 - - [31/Jan/2019:14:58:41 +0800] "GET /solr/select?q=%E5%AE%B6%E5%A4%A9%E4%B8%8B%E5%95%8A&%E5%AE%B6%E5%A4%A9%E4%B8%8B=product_name&wt=javabin&version=2 HTTP/1.1" 404 973 http-bio-8081-exec-3 1
